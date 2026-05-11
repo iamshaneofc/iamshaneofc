@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shane
 
-### Data Analyst • Data Automation Engineer • MERN Developer • AI & ML Enthusiast
+### Data Analyst • Data Automation Engineer • AI & ML Enthusiast
 
 I build data-driven systems, automation workflows, AI-powered applications, and scalable web platforms.
 
