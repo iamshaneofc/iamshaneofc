@@ -1,167 +1,186 @@
-# Hi there 👋, I'm Shane
+<h1 align="center">Hey 👋 I'm Shane</h1>
 
-### Data Analyst • Data Automation Engineer • [AI & ML] 
+<h3 align="center">
+AI Automation Engineer • Data Scientist • Full Stack AI Developer
+</h3>
 
-I build data-driven systems, automation workflows, AI-powered applications, and scalable web platforms.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Data+Science+%7C+Machine+Learning+%7C+NLP;LangChain+%7C+LLMs+%7C+Automation;Full+Stack+AI+Applications;Turning+Data+Into+Intelligent+Systems" />
+</p>
 
-My focus is on combining:
+---
 
-* Data Analytics
-* Artificial Intelligence
-* Automation
-* Full Stack Development
-* Human Psychology & Behavioral Systems
+# ⚡ About Me
 
-I enjoy building systems that solve real-world problems through structured thinking, analytics, and intelligent automation.
+I build intelligent systems combining:
+
+- Artificial Intelligence
+- Data Science & Analytics
+- Machine Learning
+- NLP & LLM Applications
+- Automation Workflows
+- Full Stack Engineering
+
+My work focuses on designing scalable AI-powered systems, automation infrastructures, data-driven applications, and intelligent workflows capable of solving real-world problems.
+
+I enjoy combining structured thinking, behavioral psychology, and engineering to build systems that are both technically powerful and human-centered.
 
 ---
 
 # 🚀 Current Focus
 
-* Building AI-powered web applications
-* Developing automation workflows and intelligent systems
-* Strengthening machine learning and data science foundations
-* Creating scalable MERN stack applications
-* Exploring behavioral psychology, cognition, and decision-making systems
-* Improving system design, architecture, and production workflows
+- AI-Powered Web Applications
+- LangChain & LLM Workflows
+- NLP Systems & AI Agents
+- Intelligent Automation Pipelines
+- Machine Learning & Predictive Systems
+- Data Engineering & Analytics
+- Scalable Backend Architecture
+- AI + Human Behavior Systems
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Core Specializations
 
-## Programming Languages
+✔ AI Automation Systems  
+✔ Machine Learning Pipelines  
+✔ NLP & LLM Applications  
+✔ LangChain Workflows  
+✔ Intelligent Chatbots  
+✔ Data Analytics & Visualization  
+✔ Full Stack AI Platforms  
+✔ API Integrations & Automation  
+✔ Scalable Backend Systems  
+✔ Human-Centered AI Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+---
 
-## Frontend Development
+# 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+## 👨‍💻 Languages
 
-## Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+---
+
+## 🤖 AI / ML / NLP
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🌐 Full Stack Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Data Science & Analytics
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+## ⚙ Automation & Tools
 
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-00599C?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF4B4B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshaneofc&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamshaneofc&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshaneofc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaneofc&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamshaneofc&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=iamshaneofc&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshaneofc&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshaneofc&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-# 🛠️ What I Build
+# 🚀 Featured Projects
 
-### 🤖 AI & Automation
+## 🔹 AI ERP Chatbot System
 
-* AI-powered workflows
-* Automation systems
-* Intelligent chatbot systems
-* API-integrated applications
-* Workflow optimization tools
-
-### 📈 Data Analytics
-
-* Interactive dashboards
-* Business intelligence systems
-* Data visualization projects
-* Analytics reporting workflows
-* SQL-based data solutions
-
-### 🌐 Full Stack Development
-
-* MERN stack applications
-* Responsive frontend systems
-* REST API development
-* Authentication systems
-* Scalable backend architecture
-
-### 🧠 Psychology & Human Systems
-
-* Cognitive psychology exploration
-* Behavioral systems analysis
-* Decision-making frameworks
-* Human-centered thinking models
-* Productivity and self-improvement systems
+AI-powered ERP chatbot integrated with APIs, intelligent workflows, automation pipelines, and conversational AI systems.
 
 ---
 
-# 📌 Featured Projects
+## 🔹 Intelligent Automation Platform
 
-## 🔹 AI Powered WebApp
+Advanced automation system for workflows, scheduling, notifications, APIs, and scalable process optimization.
 
-Full-stack AI application integrating modern web technologies with intelligent workflows and scalable architecture.
+---
 
-## 🔹 AI Powered Chatbot
+## 🔹 Data Analytics Intelligence Dashboard
 
-Conversational AI project focused on interaction systems, automation, and AI-assisted workflows.
+Interactive business intelligence dashboards using SQL, Python, Power BI, and data visualization systems.
 
-## 🔹 Data Analytics Dashboards
+---
 
-Business analytics dashboards using SQL, Power BI, Excel, and Python for data visualization and reporting.
+## 🔹 Full Stack AI Applications
 
-## 🔹 MERN Portfolio Projects
-
-Modern responsive web applications built using MongoDB, Express.js, React, and Node.js.
+Modern scalable AI-powered MERN applications integrating automation, authentication, APIs, and intelligent systems.
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced Machine Learning
-* AI Engineering Workflows
-* Open-source AI ecosystems
-* Scalable backend systems
-* System design and architecture
-* Advanced SQL optimization
-* Human psychology & cognition
+- Advanced Machine Learning
+- AI Engineering Workflows
+- LangChain & Multi-Agent Systems
+- LLM Architectures
+- NLP & Generative AI
+- Distributed Systems
+- Scalable Backend Infrastructure
+- System Design & AI Deployment
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Mission
 
-To become a high-level Data Scientist and AI Systems Builder capable of combining:
+To engineer intelligent systems that combine:
 
-* Artificial Intelligence
-* Data Systems
-* Automation
-* Human Psychology
-* Scalable Engineering
+- AI & Machine Learning
+- Data Science
+- Automation
+- Human Psychology
+- Scalable Engineering
 
 into impactful real-world solutions.
 
@@ -173,6 +192,7 @@ into impactful real-world solutions.
 <a href="https://github.com/iamshaneofc" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
 </a>
+
 <a href="https://linkedin.com/in/iamsnehanshu" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
@@ -182,6 +202,9 @@ into impactful real-world solutions.
 
 # ⚡ Philosophy
 
-> Build systems. Stay disciplined. Think deeply. Execute consistently.
+> Build intelligent systems.  
+> Think deeply.  
+> Execute relentlessly.  
+> Scale with purpose.
 
-> Technology becomes powerful when combined with structured thinking, psychology, and real-world execution.
+> AI becomes truly powerful when combined with structured thinking, automation, and human understanding.
