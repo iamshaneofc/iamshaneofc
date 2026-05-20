@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Shane</h1>
 
 <h3 align="center">
-AI Automation Engineer • Data Scientist • Full Stack AI Developer
+AI Automation Engineer • Data Scientist 
 </h3>
 
 <p align="center">
