@@ -1,74 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=available+for+new+projects+%E2%80%A2+open+to+collaborate;building+AI-powered+systems+from+scratch;turning+raw+data+into+decisions;LLMs+%C2%B7+NLP+%C2%B7+automation+workflows;making+models+that+actually+ship" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:6366f1,100:0a0e1a&height=180&section=header&text=Shane&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=AI%20Automation%20Engineer%20%2F%20Data%20Scientist&descSize=16&descAlignY=78&descColor=818cf8&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=500&height=28&lines=building+AI-powered+systems+from+scratch;turning+raw+data+into+decisions;LLMs+·+NLP+·+automation+workflows;designing+for+human-centered+AI;making+models+that+actually+ship" />
+
+</div>
+
+<br/>
+
+<table width="100%"><tr><td valign="top" width="50%">
+
+### ⚡ What I Build
+
+```python
+shane = {
+  "role": ["AI Engineer", "Data Scientist"],
+  "focus": [
+    "LLM & NLP systems",
+    "Automation workflows",
+    "Data pipelines",
+    "Full-stack AI apps"
+  ],
+  "philosophy": "systems that ship"
+}
 ```
-Hi, I'm Shane.
-AI Automation Engineer / Data Scientist
+
+</td><td valign="top" width="50%">
+
+### 🧠 Currently
+
+```yaml
+working_on:
+  - LLM-powered automation infra
+  - Multi-agent orchestration
+  - RAG pipelines at scale
+
+learning:
+  - LLMOps & model fine-tuning
+  - Behavioral AI systems
+
+open_to: new projects & collabs
 ```
 
-I build intelligent systems at the boundary of **data** and **behavior** —  
-combining structured thinking, ML engineering, and automation to solve real problems.
-
-Not just notebooks. Systems that ship.
+</td></tr></table>
 
 ---
-
-### `// focus areas`
-
-![LLM & NLP](https://img.shields.io/badge/LLM_%26_NLP_Systems-90%25-6366f1?style=flat-square&labelColor=0a0e1a&color=6366f1)  
-![Automation](https://img.shields.io/badge/Automation_Workflows-85%25-a78bfa?style=flat-square&labelColor=0a0e1a&color=a78bfa)  
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines_%26_Analytics-78%25-22d3ee?style=flat-square&labelColor=0a0e1a&color=22d3ee)  
-![Full Stack AI](https://img.shields.io/badge/Full_Stack_AI_Apps-70%25-4ade80?style=flat-square&labelColor=0a0e1a&color=4ade80)
-
----
-
-### `// current stack`
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=818cf8)
-![LangChain](https://img.shields.io/badge/LangChain-0a0e1a?style=flat-square&logo=chainlink&logoColor=67e8f9)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=flat-square&logo=pytorch&logoColor=818cf8)
-![Transformers](https://img.shields.io/badge/Transformers-0a0e1a?style=flat-square&logo=huggingface&logoColor=c4b5fd)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0a0e1a?style=flat-square&logo=openai&logoColor=86efac)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=flat-square&logo=fastapi&logoColor=818cf8)
-![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=flat-square&logo=pandas&logoColor=67e8f9)
-![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=flat-square&logo=docker&logoColor=818cf8)
-![SQL](https://img.shields.io/badge/SQL-0a0e1a?style=flat-square&logo=postgresql&logoColor=67e8f9)
-![Airflow](https://img.shields.io/badge/Airflow-0a0e1a?style=flat-square&logo=apacheairflow&logoColor=86efac)
-![n8n](https://img.shields.io/badge/n8n-0a0e1a?style=flat-square&logo=n8n&logoColor=c4b5fd)
-![RAG](https://img.shields.io/badge/RAG-0a0e1a?style=flat-square&logoColor=c4b5fd)
-
----
-
-### `// contribution graph`
-
-<img src="https://ghchart.ssh.surf/iamshaneofc" alt="GitHub contribution chart" width="100%"/>
-
----
-
-### `// github stats`
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=iamshaneofc&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=22d3ee&text_color=94a3b8&bg_color=0a0e1a" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaneofc&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0a0e1a" />
+### `— stack —`
 
-</div>
+<br/>
 
----
-
-### `// streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamshaneofc&theme=transparent&hide_border=true&ring=6366f1&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=475569&background=0a0e1a" alt="GitHub Streak" />
+![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=818cf8)
+![LangChain](https://img.shields.io/badge/LangChain-0a0e1a?style=for-the-badge&logo=chainlink&logoColor=22d3ee)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=for-the-badge&logo=pytorch&logoColor=818cf8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0e1a?style=for-the-badge&logo=huggingface&logoColor=c4b5fd)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0e1a?style=for-the-badge&logo=openai&logoColor=86efac)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=for-the-badge&logo=fastapi&logoColor=818cf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=for-the-badge&logo=docker&logoColor=818cf8)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0a0e1a?style=for-the-badge&logo=apacheairflow&logoColor=86efac)
+![n8n](https://img.shields.io/badge/n8n-0a0e1a?style=for-the-badge&logo=n8n&logoColor=c4b5fd)
+![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=for-the-badge&logo=pandas&logoColor=22d3ee)
+![Redis](https://img.shields.io/badge/Redis-0a0e1a?style=for-the-badge&logo=redis&logoColor=818cf8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0e1a?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd)
+![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=for-the-badge&logo=amazonaws&logoColor=86efac)
 
 </div>
 
@@ -76,6 +77,44 @@ Not just notebooks. Systems that ship.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
+### `— activity —`
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshaneofc&bg_color=0a0e1a&color=6366f1&line=6366f1&point=22d3ee&area=true&area_color=6366f1&hide_border=true&radius=6&custom_title=contribution+graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=iamshaneofc&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=22d3ee&text_color=94a3b8&bg_color=0d1117&ring_color=6366f1&include_all_commits=true&custom_title=github+stats" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaneofc&layout=compact&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117&langs_count=8&custom_title=top+languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamshaneofc&theme=transparent&hide_border=true&background=0D1117&ring=6366f1&fire=22d3ee&currStreakLabel=818cf8&sideLabels=6366f1&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=6366f120" width="55%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamshaneofc&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:6366f1,100:0a0e1a&height=100&section=footer&text=&animation=fadeIn" width="100%"/>
 
 </div>
