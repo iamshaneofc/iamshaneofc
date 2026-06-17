@@ -1,14 +1,18 @@
 <div align="center">
 
-# SHANE
-
-### *Engineer of Machines That Think*
-
-*"The purpose of computation is not calculation, but understanding."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:D4AF37,100:111111&height=180&section=header&text=SHANE&fontSize=72&fontColor=E8E1D4&fontAlignY=50&animation=fadeIn"/>
 
 <br>
 
-`Artificial Intelligence` · `Data Systems` · `Automation` · `Applied Research`
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=4500&pause=1800&color=D4AF37&center=true&vCenter=true&width=900&lines=Engineer+of+Intelligent+Systems;Constructing+Knowledge+Engines;Artificial+Intelligence+for+Practical+Ends;Laboratory+Notes+of+Shane;Complexity+Belongs+to+the+Machine" />
+
+<br><br>
+
+*"The machine should bear the complexity."*
+
+<br>
+
+`Artificial Intelligence` · `Knowledge Systems` · `Automation` · `Data Infrastructure`
 
 </div>
 
@@ -18,52 +22,70 @@
 
 ```text
 Name        : Shane
-Occupation  : Builder of intelligent systems
-Location    : Somewhere between data and decisions
-Interests   : Language, Automation, Knowledge Systems
+Occupation  : Engineer of Intelligent Systems
+Focus       : AI, Data, Automation
+Status      : In Active Construction
 
-Status      : In active construction
+Location    : Somewhere between data and decisions
+Objective   : Build systems that remain useful after the hype.
 ```
 
 ---
 
-## Laboratory Notes
+## Notes From The Workshop
 
-For several years I have been occupied with the design of systems
-capable of transforming unstructured information into useful knowledge.
+Most software is built to function.
 
-My work concerns itself primarily with:
+Some software is built to scale.
 
-* Retrieval-Augmented Generation
-* Language Understanding Systems
-* Autonomous Workflows
-* Data Infrastructure
-* Applied Machine Learning
-* Human-Centered Artificial Intelligence
+Very little software is built to endure.
 
-The objective is simple:
+I am interested in the last category.
 
-> Build systems that reduce human effort while increasing human capability.
+My work revolves around the design of systems capable of transforming
+unstructured information into useful knowledge through automation,
+language models, retrieval architectures, and intelligent workflows.
 
 ---
 
-## Current Investigations
+## Laboratory Status
 
-```python
-class Research:
+```text
+Date              : MMXXVI
+Condition         : Active
 
-    focus = [
-        "Large Language Models",
-        "Agentic Systems",
-        "Knowledge Retrieval",
-        "Behavioral Intelligence",
-        "Automation Architecture"
-    ]
+Research Topics
+├── Agentic Systems
+├── Retrieval Architecture
+├── Knowledge Engines
+├── Automation Infrastructure
+└── Human-Centered AI
 
-    principle = (
-        "Complexity belongs in the machine, "
-        "clarity belongs to the user."
-    )
+Current Objective
+└── Build systems that survive contact with reality.
+```
+
+---
+
+## The Machine
+
+```text
+                        ┌─────────────────┐
+                        │   KNOWLEDGE     │
+                        │     SYSTEMS     │
+                        └────────┬────────┘
+                                 │
+          ┌──────────────────────┼──────────────────────┐
+          │                      │                      │
+          ▼                      ▼                      ▼
+
+     Data Layer            Automation          Intelligence
+          │                      │                      │
+          ▼                      ▼                      ▼
+
+     PostgreSQL            Workflows          LLM Systems
+     Redis                 APIs               RAG Engines
+     Pipelines             Agents             NLP
 ```
 
 ---
@@ -74,44 +96,131 @@ class Research:
 Languages
 ├── Python
 ├── SQL
-└── JavaScript
+├── JavaScript
+└── TypeScript
 
 Artificial Intelligence
 ├── OpenAI
 ├── LangChain
-├── HuggingFace
-└── PyTorch
+├── Hugging Face
+├── PyTorch
+└── Vector Databases
 
 Infrastructure
 ├── FastAPI
 ├── PostgreSQL
 ├── Redis
 ├── Docker
+├── Linux
 └── AWS
 
 Data Engineering
 ├── Pandas
-├── Airflow
 ├── ETL Pipelines
+├── Automation Workflows
 └── Analytics Systems
 ```
 
 ---
 
-## Philosophy
+## Research Domains
 
-Most software is built to function.
-
-A smaller portion is built to scale.
-
-The rarest systems are built to endure.
-
-I am interested in the latter.
+```text
+Artificial Intelligence     ████████████████████ 95%
+Automation Systems          ██████████████████   92%
+Data Engineering            █████████████████    88%
+Backend Development         ████████████████     85%
+Machine Learning            ███████████████      82%
+Frontend Engineering        ██████████           65%
+```
 
 ---
 
 <div align="center">
 
-### "The best interface is understanding."
+### Laboratory Activity Record
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshaneofc&bg_color=111111&color=D4AF37&line=C2B280&point=E8E1D4&area=true&hide_border=true&custom_title=Research+Activity+Log" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshaneofc&show_icons=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=C2B280&text_color=E8E1D4&bg_color=111111&include_all_commits=true&custom_title=Laboratory+Statistics" />
+
+ 
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaneofc&layout=compact&hide_border=true&title_color=D4AF37&text_color=E8E1D4&bg_color=111111&langs_count=8&custom_title=Primary+Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamshaneofc&theme=transparent&hide_border=true&background=111111&ring=D4AF37&fire=C2B280&currStreakLabel=D4AF37&sideLabels=C2B280&dates=E8E1D4&currStreakNum=E8E1D4&sideNums=E8E1D4" width="60%"/>
+
+</div>
+
+---
+
+## Selected Fields of Study
+
+```python
+class Shane:
+
+    interests = [
+        "Artificial Intelligence",
+        "Knowledge Retrieval",
+        "Automation Systems",
+        "Language Models",
+        "Data Infrastructure",
+        "Applied Research"
+    ]
+
+    principle = (
+        "Complexity belongs in the machine, "
+        "clarity belongs to the user."
+    )
+
+    mission = (
+        "Transform information into understanding."
+    )
+```
+
+---
+
+## Current Investigations
+
+```text
+[•] Agentic AI Systems
+[•] Retrieval-Augmented Generation
+[•] Enterprise Knowledge Engines
+[•] Automation Architecture
+[•] Behavioral Intelligence
+[•] Multi-Agent Workflows
+```
+
+---
+
+<div align="center">
+
+### Archive Entry
+
+*"Knowledge is compressed experience."*
+
+<br>
+
+*"Every system reveals the mind of its architect."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:D4AF37,100:111111&height=120&section=footer"/>
 
 </div>
