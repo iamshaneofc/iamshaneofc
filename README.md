@@ -34,7 +34,7 @@ Objective   : Build systems that remain useful after the hype.
 
 ## Notes From The Workshop
 
-Most software is built to function.
+Most software is built to functio.
 
 Some software is built to scale.
 
