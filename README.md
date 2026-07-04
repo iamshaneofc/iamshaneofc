@@ -18,7 +18,7 @@
 
 ---
 
-## Correspondenc
+## Correspondence
 
 ```text
 Name        : Shane
