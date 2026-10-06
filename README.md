@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:D4AF37,100:111111&height=180&section=header&text=SHANE&fontSize=72&fontColor=E8E1D4&fontAlignY=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:D4AF37,100:111111&height=180&section=header&text=Snehanshu&fontSize=72&fontColor=E8E1D4&fontAlignY=50&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=4500&pause=1800&color=D4AF37&center=true&vCenter=true&width=900&lines=Engineer+of+Intelligent+Systems;Constructing+Knowledge+Engines;Artificial+Intelligence+for+Practical+Ends;Laboratory+Notes+of+Shane;Complexity+Belongs+to+the+Machine" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=4500&pause=1800&color=D4AF37&center=true&vCenter=true&width=900&lines=Engineer+of+Intelligent+Systems;Constructing+Knowledge+Engines;Artificial+Intelligence+for+Practical+Ends;Laboratory+Notes+of+Snehanshu;Complexity+Belongs+to+the+Machine" />
 
 <br><br>
 
@@ -21,7 +21,7 @@
 ## Correspondence
 
 ```text
-Name        : Shane
+Name        : Snehanshu
 Occupation  : Engineer of Intelligent Systems
 Focus       : AI, Data, Automation
 Status      : In Active Construction
