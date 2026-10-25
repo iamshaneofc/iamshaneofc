@@ -8,7 +8,7 @@
 
 <br><br>
 
-*"The machine should  the complexity."*
+*"The machine should bear the complexity."*
 
 <br>
 
